@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 новый крокодил
 new krokodile
 help
+=======
+>>>>>>> parent of 3439ec6 (3 задание)
